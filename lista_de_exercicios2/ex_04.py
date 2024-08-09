@@ -1,3 +1,4 @@
+# Grazielly Cristine
 nota = int(input("Informe a sua nota: "))
 
 # Uso do If ternário

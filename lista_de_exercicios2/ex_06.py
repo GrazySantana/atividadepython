@@ -1,3 +1,4 @@
+# Grazielly Cristine
 comida = int(input("Indique o alimento: "))
 
 # Função para selecionar sabor

@@ -1,3 +1,4 @@
+# Grazielly Cristine
 dia = input("Indique o dia da semana: ")
 
 # Função Fim de Semana
